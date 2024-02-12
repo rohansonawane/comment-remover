@@ -28,7 +28,7 @@
 4. **Download Cleaned Files:**
    - Once the comments have been removed, you can download the cleaned files to your local machine.
 
-**Method 1**
+**Method 2**
 1. Unzip the downloaded file
 
 2. Make sure you have localhost or any web host running on your PC to run files
