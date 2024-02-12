@@ -2,7 +2,15 @@
 
 **Comment Remover** is an online web application designed to streamline code cleanup by removing comments from files of various types, including PHP, JavaScript, HTML, and more. This utility helps in enhancing code readability and maintainability, making it easier to manage and understand.
 
+# Result
+
+**Input**
+
 ![alt text](https://github.com/rohansonawane/comment-remover/blob/main/output.jpg?raw=true)
+
+**Output**
+
+![alt text](https://github.com/rohansonawane/comment-remover/blob/main/input.jpg?raw=true)
 
 ## How to Use the Web Application:
 
@@ -47,7 +55,3 @@ C, C++.
 Check out the live demo [here](https://shuruaat.in/521/assignment-1/) to see Comment Remover in action.
 
 Contributions are welcome! If you have any feedback or suggestions, feel free to reach out. Let's work together to improve code maintenance and productivity!
-
----
-
-Feel free to further customize this README file to include any additional information or instructions for your web application users.
