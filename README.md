@@ -2,7 +2,11 @@
 
 **Comment Remover** is an online web application designed to streamline code cleanup by removing comments from files of various types, including PHP, JavaScript, HTML, and more. This utility helps in enhancing code readability and maintainability, making it easier to manage and understand.
 
+![alt text](https://github.com/rohansonawane/comment-remover/blob/main/output.jpg?raw=true)
+
 ## How to Use the Web Application:
+
+**Method 1**
 
 1. **Access the Web Application:**
    - Visit the live web application [here](https://shuruaat.in/521/assignment-1/).
@@ -16,8 +20,27 @@
 4. **Download Cleaned Files:**
    - Once the comments have been removed, you can download the cleaned files to your local machine.
 
+**Method 1**
+1. Unzip the downloaded file
+
+2. Make sure you have localhost or any web host running on your PC to run files
+
+3. Access App using folder directory/index.html
+
+4. When Webapp is open Upload File
+
+5. It will show the content of the file on left side
+
+6. Click on Process File button
+
+7. It will output string without valid comments
+
+8. If there are any Invalid comments it will show below
+
+9. Click on Download button to download file
+
 ## Supported File Types: 
-C, C++ and etc.
+C, C++.
 
 ## Demo:
 
